@@ -1,0 +1,1 @@
+Carpeta que sirve para el guardado de las busquedas que se realizen
